@@ -14823,3 +14823,298 @@ Caused by: org.codehaus.jackson.map.JsonMappingException: Infinite recursion (St
 [02/01/19 11:07:12:012 EST]  WARN seam.Component: Component class should be serializable: richTabComponentHelper
 [02/01/19 11:07:13:013 EST] ERROR xml.ErrorLogger: Error parsing XML (3) : cvc-complex-type.3.1: Value '1.0' of attribute 'version' of element 'entity-mappings' is not valid with respect to the corresponding attribute use. Attribute 'version' has a fixed value of '2.0'.
 [02/01/19 11:07:15:015 EST]  WARN permission.PersistentPermissionResolver: no permission store available - please install a PermissionStore with the name 'org.jboss.seam.security.jpaPermissionStore' if persistent permissions are required.
+[03/01/19 11:19:04:004 EST]  WARN seam.Component: Component class should be serializable: richTabComponentHelper
+[03/01/19 11:19:04:004 EST] ERROR xml.ErrorLogger: Error parsing XML (3) : cvc-complex-type.3.1: Value '1.0' of attribute 'version' of element 'entity-mappings' is not valid with respect to the corresponding attribute use. Attribute 'version' has a fixed value of '2.0'.
+[03/01/19 11:19:10:010 EST]  WARN permission.PersistentPermissionResolver: no permission store available - please install a PermissionStore with the name 'org.jboss.seam.security.jpaPermissionStore' if persistent permissions are required.
+[03/01/19 12:50:01:001 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 12:50:01:001 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 12:50:01:001 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 12:50:01:001 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 12:50:01:001 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 12:50:01:001 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 12:50:01:001 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 12:50:01:001 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 12:50:01:001 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 12:50:01:001 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 12:50:01:001 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 12:50:01:001 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 12:50:01:001 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 12:50:01:001 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 12:50:01:001 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 12:50:01:001 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 12:50:01:001 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 12:50:01:001 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 12:50:01:001 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 12:50:01:001 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 12:50:01:001 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 12:50:01:001 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 12:50:01:001 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 12:50:01:001 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 12:50:01:001 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 12:50:01:001 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 12:50:01:001 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 12:50:01:001 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 12:50:01:001 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 12:50:01:001 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 12:50:01:001 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 12:50:01:001 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 12:50:01:001 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 12:50:01:001 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 12:50:01:001 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 12:50:01:001 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 12:50:01:001 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 12:50:01:001 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 12:50:01:001 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 12:50:01:001 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 12:50:01:001 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 12:50:01:001 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 12:50:01:001 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 12:50:01:001 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 12:50:01:001 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 12:50:01:001 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 12:50:01:001 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 12:50:01:001 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 12:50:01:001 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 12:50:01:001 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 12:50:01:001 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 12:50:01:001 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 12:50:01:001 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 12:50:01:001 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 12:50:01:001 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 12:50:01:001 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 12:50:01:001 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 12:50:01:001 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 12:50:01:001 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 12:50:01:001 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 12:50:01:001 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 12:50:01:001 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 12:50:01:001 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 12:50:01:001 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 12:50:01:001 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 12:50:02:002 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 12:50:02:002 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 12:50:02:002 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 12:50:02:002 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 12:50:02:002 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 12:50:02:002 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 12:50:02:002 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 12:50:02:002 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 12:50:02:002 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 12:50:02:002 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 12:50:02:002 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 12:50:02:002 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 12:50:02:002 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 12:50:02:002 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 12:50:02:002 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 12:50:02:002 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 12:50:02:002 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 12:50:02:002 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 12:50:02:002 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 12:50:02:002 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 12:50:02:002 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 12:50:02:002 EST]  WARN seam.Component: Cannot create Seam component, scope is not active: entityManager(CONVERSATION)
+[03/01/19 12:50:02:002 EST]  WARN seam.Component: Cannot create Seam component, scope is not active: entityManager(CONVERSATION)
+[03/01/19 12:50:02:002 EST]  WARN seam.Component: Cannot create Seam component, scope is not active: entityManager(CONVERSATION)
+[03/01/19 12:50:02:002 EST]  WARN seam.Component: Cannot create Seam component, scope is not active: entityManager(CONVERSATION)
+[03/01/19 12:50:02:002 EST]  WARN seam.Component: Cannot create Seam component, scope is not active: org.jboss.seam.core.events(EVENT)
+[03/01/19 12:50:02:002 EST]  WARN seam.Component: Cannot create Seam component, scope is not active: org.jboss.seam.international.statusMessages(CONVERSATION)
+[03/01/19 02:19:30:030 EST]  WARN seam.Component: Component class should be serializable: richTabComponentHelper
+[03/01/19 02:19:31:031 EST] ERROR xml.ErrorLogger: Error parsing XML (3) : cvc-complex-type.3.1: Value '1.0' of attribute 'version' of element 'entity-mappings' is not valid with respect to the corresponding attribute use. Attribute 'version' has a fixed value of '2.0'.
+[03/01/19 02:19:37:037 EST]  WARN permission.PersistentPermissionResolver: no permission store available - please install a PermissionStore with the name 'org.jboss.seam.security.jpaPermissionStore' if persistent permissions are required.
+[03/01/19 02:21:23:023 EST]  WARN core.SynchronousDispatcher: Failed executing POST /portal/login
+org.jboss.resteasy.spi.UnsupportedMediaTypeException: Cannot consume content type
+	at org.jboss.resteasy.core.registry.Segment.match(Segment.java:112)
+	at org.jboss.resteasy.core.registry.SimpleSegment.matchSimple(SimpleSegment.java:33)
+	at org.jboss.resteasy.core.registry.RootSegment.matchChildren(RootSegment.java:327)
+	at org.jboss.resteasy.core.registry.SimpleSegment.matchSimple(SimpleSegment.java:44)
+	at org.jboss.resteasy.core.registry.RootSegment.matchChildren(RootSegment.java:327)
+	at org.jboss.resteasy.core.registry.RootSegment.matchRoot(RootSegment.java:374)
+	at org.jboss.resteasy.core.registry.RootSegment.matchRoot(RootSegment.java:367)
+	at org.jboss.resteasy.core.ResourceMethodRegistry.getResourceInvoker(ResourceMethodRegistry.java:251)
+	at org.jboss.resteasy.core.SynchronousDispatcher.getInvoker(SynchronousDispatcher.java:173)
+	at org.jboss.resteasy.core.SynchronousDispatcher.invoke(SynchronousDispatcher.java:118)
+	at org.jboss.seam.resteasy.ResteasyResourceAdapter$1.process(ResteasyResourceAdapter.java:145)
+	at org.jboss.seam.servlet.ContextualHttpServletRequest.run(ContextualHttpServletRequest.java:65)
+	at org.jboss.seam.resteasy.ResteasyResourceAdapter.getResource(ResteasyResourceAdapter.java:120)
+	at org.jboss.seam.servlet.SeamResourceServlet.service(SeamResourceServlet.java:80)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:728)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:305)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:243)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:222)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:123)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:502)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:171)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:100)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:953)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:118)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:408)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1041)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:603)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:310)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:744)
+[03/01/19 03:12:11:011 EST]  WARN core.SynchronousDispatcher: Failed executing POST /portal/login
+org.jboss.resteasy.spi.UnsupportedMediaTypeException: Cannot consume content type
+	at org.jboss.resteasy.core.registry.Segment.match(Segment.java:112)
+	at org.jboss.resteasy.core.registry.SimpleSegment.matchSimple(SimpleSegment.java:33)
+	at org.jboss.resteasy.core.registry.RootSegment.matchChildren(RootSegment.java:327)
+	at org.jboss.resteasy.core.registry.SimpleSegment.matchSimple(SimpleSegment.java:44)
+	at org.jboss.resteasy.core.registry.RootSegment.matchChildren(RootSegment.java:327)
+	at org.jboss.resteasy.core.registry.RootSegment.matchRoot(RootSegment.java:374)
+	at org.jboss.resteasy.core.registry.RootSegment.matchRoot(RootSegment.java:367)
+	at org.jboss.resteasy.core.ResourceMethodRegistry.getResourceInvoker(ResourceMethodRegistry.java:251)
+	at org.jboss.resteasy.core.SynchronousDispatcher.getInvoker(SynchronousDispatcher.java:173)
+	at org.jboss.resteasy.core.SynchronousDispatcher.invoke(SynchronousDispatcher.java:118)
+	at org.jboss.seam.resteasy.ResteasyResourceAdapter$1.process(ResteasyResourceAdapter.java:145)
+	at org.jboss.seam.servlet.ContextualHttpServletRequest.run(ContextualHttpServletRequest.java:65)
+	at org.jboss.seam.resteasy.ResteasyResourceAdapter.getResource(ResteasyResourceAdapter.java:120)
+	at org.jboss.seam.servlet.SeamResourceServlet.service(SeamResourceServlet.java:80)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:728)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:305)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:243)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:222)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:123)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:502)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:171)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:100)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:953)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:118)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:408)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1041)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:603)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:310)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:744)
+[03/01/19 03:13:56:056 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 03:13:56:056 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 03:13:56:056 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 03:13:56:056 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 03:13:56:056 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 03:13:56:056 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 03:13:56:056 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 03:13:56:056 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 03:13:56:056 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 03:13:56:056 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 03:13:56:056 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 03:13:56:056 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 03:13:56:056 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 03:13:56:056 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 03:13:56:056 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 03:13:56:056 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 03:13:56:056 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 03:13:56:056 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 03:13:56:056 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 03:13:56:056 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 03:13:56:056 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 03:13:56:056 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 03:13:56:056 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 03:13:56:056 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 03:13:56:056 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 03:13:56:056 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 03:13:56:056 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 03:13:56:056 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 03:13:56:056 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 03:13:56:056 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 03:13:56:056 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 03:13:56:056 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 03:13:56:056 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 03:13:56:056 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 03:13:56:056 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 03:13:56:056 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 03:13:56:056 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 03:13:56:056 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 03:13:56:056 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 03:13:56:056 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 03:13:56:056 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 03:13:56:056 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 03:13:56:056 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 03:13:57:057 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 03:13:57:057 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 03:13:57:057 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 03:13:57:057 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 03:13:57:057 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 03:13:57:057 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 03:13:57:057 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 03:13:57:057 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 03:13:57:057 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 03:13:57:057 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 03:13:57:057 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 03:13:57:057 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 03:13:57:057 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 03:13:57:057 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 03:13:57:057 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 03:13:57:057 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 03:13:57:057 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 03:13:57:057 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 03:13:57:057 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 03:13:57:057 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 03:13:57:057 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 03:13:57:057 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 03:13:57:057 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 03:13:57:057 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 03:13:57:057 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 03:13:57:057 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 03:13:57:057 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 03:13:57:057 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 03:13:57:057 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 03:13:57:057 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 03:13:57:057 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 03:13:57:057 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 03:13:57:057 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 03:13:57:057 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 03:13:57:057 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 03:13:57:057 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 03:13:57:057 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 03:13:57:057 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 03:13:57:057 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 03:13:57:057 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 03:13:57:057 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 03:13:57:057 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 03:13:57:057 EST]  WARN util.DTDEntityResolver: recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+[03/01/19 03:14:20:020 EST]  WARN seam.Component: Component class should be serializable: richTabComponentHelper
+[03/01/19 03:14:20:020 EST] ERROR xml.ErrorLogger: Error parsing XML (3) : cvc-complex-type.3.1: Value '1.0' of attribute 'version' of element 'entity-mappings' is not valid with respect to the corresponding attribute use. Attribute 'version' has a fixed value of '2.0'.
+[03/01/19 03:14:22:022 EST]  WARN permission.PersistentPermissionResolver: no permission store available - please install a PermissionStore with the name 'org.jboss.seam.security.jpaPermissionStore' if persistent permissions are required.
+[03/01/19 03:15:51:051 EST]  WARN core.SynchronousDispatcher: Failed executing POST /portal/login
+org.jboss.resteasy.spi.UnsupportedMediaTypeException: Cannot consume content type
+	at org.jboss.resteasy.core.registry.Segment.match(Segment.java:112)
+	at org.jboss.resteasy.core.registry.SimpleSegment.matchSimple(SimpleSegment.java:33)
+	at org.jboss.resteasy.core.registry.RootSegment.matchChildren(RootSegment.java:327)
+	at org.jboss.resteasy.core.registry.SimpleSegment.matchSimple(SimpleSegment.java:44)
+	at org.jboss.resteasy.core.registry.RootSegment.matchChildren(RootSegment.java:327)
+	at org.jboss.resteasy.core.registry.RootSegment.matchRoot(RootSegment.java:374)
+	at org.jboss.resteasy.core.registry.RootSegment.matchRoot(RootSegment.java:367)
+	at org.jboss.resteasy.core.ResourceMethodRegistry.getResourceInvoker(ResourceMethodRegistry.java:251)
+	at org.jboss.resteasy.core.SynchronousDispatcher.getInvoker(SynchronousDispatcher.java:173)
+	at org.jboss.resteasy.core.SynchronousDispatcher.invoke(SynchronousDispatcher.java:118)
+	at org.jboss.seam.resteasy.ResteasyResourceAdapter$1.process(ResteasyResourceAdapter.java:145)
+	at org.jboss.seam.servlet.ContextualHttpServletRequest.run(ContextualHttpServletRequest.java:65)
+	at org.jboss.seam.resteasy.ResteasyResourceAdapter.getResource(ResteasyResourceAdapter.java:120)
+	at org.jboss.seam.servlet.SeamResourceServlet.service(SeamResourceServlet.java:80)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:728)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:305)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:243)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:222)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:123)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:502)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:171)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:100)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:953)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:118)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:408)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1041)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:603)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:310)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:744)
