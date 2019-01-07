@@ -9,10 +9,12 @@ import javax.ws.rs.PathParam;
 import javax.ws.rs.Produces;
 
 import org.hibernate.search.jpa.FullTextEntityManager;
+import org.jboss.seam.Component;
 import org.jboss.seam.ScopeType;
 import org.jboss.seam.annotations.In;
 import org.jboss.seam.annotations.Name;
 import org.jboss.seam.annotations.Scope;
+import org.witchcraft.base.entity.UserUtilAction;
 import org.witchcraft.seam.action.BaseAction;
 
 import com.nas.recovery.web.action.users.UserAction;
@@ -37,15 +39,17 @@ public class PassProtectService extends BaseAction<User> {
 	@Path("pass/{param}")
 	@Produces("application/json")
 	public UserEntity getMsg(@PathParam("param") String msg) {
-
+//		UserUtilAction userUtilAction = (UserUtilAction)Component.getInstance("userUtilAction");
+//		if(userUtilAction.getCurrentUser().getEnabled()) {
+		
 		User usr = new User();
 		usr = userAction.findByUnqUserName(msg);
 		UserEntity usrE = new UserEntity();
 		usrE.setUserName(usr.getDisplayName());
 		usrE.setPassword(usr.getPassword());
 		usrE.setEmail(usr.getEmail());
-
 		return usrE;
+//		}else return null;
 	}
 
 	@GET
@@ -53,7 +57,9 @@ public class PassProtectService extends BaseAction<User> {
 	@Produces("application/json")
 	public PassProtectRESTEntity getPass(@PathParam("param") String msg) {
 		List<PassProtect> searchResult = new ArrayList<>();
-
+//		UserUtilAction userUtilAction = (UserUtilAction)Component.getInstance("userUtilAction");
+//		if(userUtilAction.getCurrentUser().getEnabled()) {
+			
 		String query = "select p from PassProtect p where p.companyName=?1";
 		searchResult = (this.executeQuery(query, msg));
 		PassProtectRESTEntity p=new PassProtectRESTEntity();
@@ -63,6 +69,7 @@ public class PassProtectService extends BaseAction<User> {
 			p.setCompanyUserName(searchResult.get(0).getCompanyUserName());
 		}
 		return p;
+//		}else return null;
 
 	}
 
