@@ -4,6 +4,7 @@ import javax.persistence.EntityManager;
 import javax.ws.rs.Consumes;
 import javax.ws.rs.POST;
 import javax.ws.rs.Path;
+import javax.ws.rs.Produces;
 import javax.ws.rs.core.Response;
 
 import org.jboss.seam.Component;
@@ -34,6 +35,7 @@ public class LoginService {
 	@POST
 	@Path("/login")
 	@Consumes("application/json")
+	@Produces("application/json")
 	public Response login(UserEntity user) {
 
 	    credentials.setUsername(user.getUserName());
@@ -41,9 +43,13 @@ public class LoginService {
 	    String s=identity.login();
 	    UserUtilAction userUtilAction = (UserUtilAction)Component.getInstance("userUtilAction");
 	    if(userUtilAction.getCurrentUser()!=null && userUtilAction.getCurrentUser().getEmail()!=null) {
+	    	user.setEmail(userUtilAction.getCurrentUser().getEmail());
+	    	user.setUserName(userUtilAction.getCurrentUser().getUserName());
+	    	user.setEnabled(userUtilAction.getCurrentUser().getEnabled());
 	    	
-	    	String output = userUtilAction.getCurrentUser().getEmail();
-	    	return Response.status(200).entity(output).build();
+	    	
+//	    	String output = userUtilAction.getCurrentUser().getEmail();
+	    	return Response.status(200).entity(user).build();
 	    }else
 	    {
 	    	
